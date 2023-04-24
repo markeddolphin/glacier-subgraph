@@ -1,4 +1,4 @@
-# Glacier V2 Subgraph
+# Glacier Subgraph
 
 [Glacier](https://glacier.exchange/) is a decentralized protocol for automated token exchange on Avalanche c-chain.
 
